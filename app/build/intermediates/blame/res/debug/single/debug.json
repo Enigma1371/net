@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tv_series.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_tv_series.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resettextview.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\resettextview.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signin.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mastercard.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\mastercard.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_movie_details.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_movie_details.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_play_arrow_24.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\ic_baseline_play_arrow_24.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_itemselected.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\itemselected.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_movies.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_movies.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inactivedots.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\inactivedots.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_player.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_video_player.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_check_24.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\ic_baseline_check_24.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_logo_netflix.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable-v24\\ic_logo_netflix.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_step_one.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_step_one.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_basicplanimage.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\basicplanimage.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lastcard.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\lastcard.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_choose_your_plan.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_choose_your_plan.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_americanexpress.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\americanexpress.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_imageone.jpg.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable-v24\\imageone.jpg"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_navigator.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\menu\\bottom_navigator.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_premiumplanimage.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\premiumplanimage.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mainscreen.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_mainscreen.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_tvseriestoolbar.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\tvseriestoolbar.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_settingstoolbar.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\settingstoolbar.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment_overdue.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_payment_overdue.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_netflix_icon_text.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable-v24\\ic_netflix_icon_text.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_netflix.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable-v24\\netflix.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\menu_searchmenu.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\menu\\searchmenu.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_linearlayoutstrok.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\linearlayoutstrok.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_playbuttonstroke.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\playbuttonstroke.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_check_circle_outline_24.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\ic_baseline_check_circle_outline_24.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_imagetwo.jpg.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable-v24\\imagetwo.jpg"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_lockicon.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\lockicon.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_activedots.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\activedots.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_step_three.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_step_three.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_standardplanimage.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\standardplanimage.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_layout.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\custom_layout.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_stepone.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\toolbar_stepone.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbarsignin.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\toolbarsignin.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment_gateway.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_payment_gateway.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_visacard.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\visacard.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_mainscreentoolbar.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\mainscreentoolbar.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_stroke.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\button_stroke.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resetbutton.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\resetbutton.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_movietoolbar.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\movietoolbar.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_patmenttoolbar.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\patmenttoolbar.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_radio_button_unchecked_24.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\ic_baseline_radio_button_unchecked_24.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_tool_stepthree.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\tool_stepthree.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_category_row_item.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\category_row_item.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_mainrecyclerlayout.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\mainrecyclerlayout.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_serachrecyclerlayout.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\serachrecyclerlayout.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_swipe_screen.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_swipe_screen.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_imagethree.jpg.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable-v24\\imagethree.jpg"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_finish_up_account.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_finish_up_account.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_chevron_right_24.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\drawable\\ic_baseline_chevron_right_24.xml"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Swapnil projects\\Netflix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_step_two.xml.flat",
+        "source": "D:\\Swapnil projects\\Netflix\\app\\src\\main\\res\\layout\\activity_step_two.xml"
+    }
+]

@@ -1,12 +1,13 @@
 package com.example.netflix.Mainscreens;
 
-import androidx.appcompat.app.AppCompatActivity;
-
+import android.content.Context;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.view.WindowManager;
-
+import androidx.appcompat.app.AppCompatActivity;
 import com.example.netflix.R;
 import com.google.android.exoplayer2.ExoPlayerFactory;
 import com.google.android.exoplayer2.SimpleExoPlayer;
@@ -18,27 +19,41 @@ import com.google.android.exoplayer2.upstream.DefaultDataSourceFactory;
 import com.google.android.exoplayer2.util.Util;
 
 public class VideoPlayer extends AppCompatActivity {
-  private PlayerView playerView;
-  private SimpleExoPlayer simpleExoPlayer;
+    private PlayerView playerView;
+    private SimpleExoPlayer simpleExoPlayer;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_video_player);
-        playerView=findViewById(R.id.exoplayer);
+        playerView = findViewById(R.id.exoplayer);
         getSupportActionBar().hide();
-        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
         getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_HIDE_NAVIGATION);
-        setUpExoplayer(getIntent().getStringExtra("url"));
+
+        // Check if the device is connected to Wi-Fi
+        if (isConnectedToWiFi()) {
+            setUpExoplayer(getIntent().getStringExtra("url"));
+        } else {
+            // Show a message or take appropriate action when not on Wi-Fi
+            // You can display a dialog or a message to inform the user
+            // that the app requires Wi-Fi for video playback.
+        }
     }
 
     private void setUpExoplayer(String url) {
-        simpleExoPlayer= ExoPlayerFactory.newSimpleInstance(this);
+        simpleExoPlayer = ExoPlayerFactory.newSimpleInstance(this);
         playerView.setPlayer(simpleExoPlayer);
-        DataSource.Factory dataSourceFactory=new DefaultDataSourceFactory(this, Util.getUserAgent(this,"Netflix"));
-        MediaSource mediaSource=new ExtractorMediaSource.Factory(dataSourceFactory ).createMediaSource(Uri.parse(url));
+        DataSource.Factory dataSourceFactory = new DefaultDataSourceFactory(this, Util.getUserAgent(this, "Netflix"));
+        MediaSource mediaSource = new ExtractorMediaSource.Factory(dataSourceFactory).createMediaSource(Uri.parse(url));
         simpleExoPlayer.prepare(mediaSource);
         simpleExoPlayer.setPlayWhenReady(true);
+    }
 
+    private boolean isConnectedToWiFi() {
+        ConnectivityManager connectivityManager = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
+        NetworkInfo activeNetworkInfo = connectivityManager.getActiveNetworkInfo();
+        return activeNetworkInfo != null && activeNetworkInfo.getType() == ConnectivityManager.TYPE_WIFI;
     }
 
     @Override

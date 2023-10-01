@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_radio_button_unchecked_24.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\ic_baseline_radio_button_unchecked_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_imageone.jpg.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable-v24\\imageone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_tool_stepthree.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\tool_stepthree.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_payment_overdue.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\activity_payment_overdue.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_choose_your_plan.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\activity_choose_your_plan.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_patmenttoolbar.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\patmenttoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_chevron_right_24.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\ic_baseline_chevron_right_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_finish_up_account.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\activity_finish_up_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_step_one.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\activity_step_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_check_24.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\ic_baseline_check_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_check_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\ic_baseline_check_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_netflix_icon_text.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable-v24\\ic_netflix_icon_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_imagethree.jpg.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable-v24\\imagethree.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_standardplanimage.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\standardplanimage.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_step_three.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\activity_step_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_toolbarsignin.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\toolbarsignin.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_signin.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_imagetwo.jpg.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable-v24\\imagetwo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_lastcard.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\lastcard.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_premiumplanimage.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\premiumplanimage.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_basicplanimage.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\basicplanimage.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_mastercard.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\mastercard.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_payment_gateway.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\activity_payment_gateway.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_inactivedots.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\inactivedots.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_netflix.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable-v24\\netflix.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_step_two.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\activity_step_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_lockicon.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\lockicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_logo_netflix.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable-v24\\ic_logo_netflix.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_swipe_screen.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\activity_swipe_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_activedots.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\activedots.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_toolbar_stepone.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\toolbar_stepone.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_button_stroke.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\button_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_americanexpress.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\americanexpress.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_linearlayoutstrok.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\linearlayoutstrok.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_custom_layout.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\custom_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\drawable_visacard.png.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\drawable\\visacard.png"
+    },
+    {
+        "merged": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_mainscreen.xml.flat",
+        "source": "C:\\Users\\PRATYAKSH777\\Desktop\\Netflix\\app\\src\\main\\res\\layout\\activity_mainscreen.xml"
+    }
+]
